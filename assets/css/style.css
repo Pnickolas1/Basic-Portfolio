@@ -15,7 +15,7 @@ div.navbar{
 	border-bottom: 2px solid;
 	border-color: #cccccc;
 	background-color: #ffffff;
-	padding: 28px 155px 33px 150px;
+	padding: 28px 155px 15px 150px;
 	width: 1267px;
 	right: 0px;
 	left: 0px;
@@ -159,9 +159,6 @@ outline: none;
 text-align: left;
 resize: none;
 }
-
-
-
 
 footer {
 	border-color: 2px solid;
