@@ -11,7 +11,7 @@ h1{
 	font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; 
 }
 
-div.navbar{
+.navbar{
 	border-bottom: 2px solid;
 	border-color: #cccccc;
 	background-color: #ffffff;
@@ -42,13 +42,13 @@ li {
 
 }
 
-div.big-box{
+.big-box{
 	display: inline-block;
 	width: 1100px;
 	padding: 50px 25px 25px 50px;
 }
 
-div.box{
+.box{
 	display: inline-block;
 	width: 650px;
 	background-color: #ffffff;
