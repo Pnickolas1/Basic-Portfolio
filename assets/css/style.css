@@ -107,15 +107,41 @@ form{
 	text-align: left;
 }
 
-
-div.contact-me{
+.contact-me{
 	text-align: left;
 	border-bottom: 2px solid;
 	border-color: #e1e1e1;
 }
 
+
+.image{
+ height:40%;
+ width:100%;
+ text-align:center;
+ padding-top:2px;
+ background-image:url(Lighthouse.jpg);
+ background-size:100% auto;
+ }
+
+
 #contact{
 	text-align: left;
+}
+
+#picture1{
+	width: 250px;
+}
+
+#jets{
+	width: 250px;
+}
+
+#image4{
+	width: 250px;
+}
+
+#image5{
+	width: 250px;
 }
 
 
@@ -168,6 +194,10 @@ footer {
     background-color: #464F54;
     color: white;
     border-color: #cccccc;
+}
+
+.footer, .push {
+	height: 155px; /* .push must be the same height as .footer */
 }
 
 
